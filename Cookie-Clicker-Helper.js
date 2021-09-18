@@ -13,7 +13,7 @@
 (function() {
     'use strict';
 
-    setInterval(function() { Game.ClickCookie(); }, 4);
+    setInterval(function() { Game.ClickCookie(); }, 1);
 
 setInterval(function() {
     Game.shimmers.forEach(function(shimmer)
